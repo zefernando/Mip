@@ -1,0 +1,612 @@
+19/11/104 14:29:24:  ****** session             ******
+19/11/104 14:29:24:  ******         starts      ******
+19/11/104 14:29:24:  ******                here ******
+19/11/104 14:29:24: Output File not in command line. OK
+19/11/104 14:29:24: STANDARD Bulk File Transfer SET
+19/11/104 14:29:24: Bulk File is T467
+19/11/104 14:29:24: output file not specified
+19/11/104 14:29:24: output file will be generated
+19/11/104 14:29:24: IpAddress id is "172.20.253.142"
+19/11/104 14:29:24: OUTPUT will be converted to ASCII
+19/11/104 14:29:24: On reception failure "onFailure.sh" will run
+19/11/104 14:29:24: Max LOG file SIZE set to 32000
+19/11/104 14:29:24: MIP Session
+19/11/104 14:29:24: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 14:29:24: Bulk Type is T
+19/11/104 14:29:24: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 14:29:24: Starting File Receive
+19/11/104 14:29:24: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 14:29:24: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 14:29:24: 0 Bytes Received in 0 Blocks
+19/11/104 14:29:24: TCP DISCONNECT (-1)
+19/11/104 14:29:24: END END END END END 
+19/11/104 14:29:24: bye
+19/11/104 14:29:24: Antes do Fail
+19/11/104 14:35:21:  ****** session             ******
+19/11/104 14:35:21:  ******         starts      ******
+19/11/104 14:35:21:  ******                here ******
+19/11/104 14:35:21: Output File not in command line. OK
+19/11/104 14:35:21: STANDARD Bulk File Transfer SET
+19/11/104 14:35:21: Bulk File is T467
+19/11/104 14:35:21: output file not specified
+19/11/104 14:35:21: output file will be generated
+19/11/104 14:35:21: IpAddress id is "172.20.253.142"
+19/11/104 14:35:21: OUTPUT will be converted to ASCII
+19/11/104 14:35:21: On reception failure "onFailure.sh" will run
+19/11/104 14:35:21: Max LOG file SIZE set to 32000
+19/11/104 14:35:21: MIP Session
+19/11/104 14:35:21: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 14:35:21: Bulk Type is T
+19/11/104 14:35:21: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 14:35:21: Starting File Receive
+19/11/104 14:35:21: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 14:35:21: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 14:35:21: 0 Bytes Received in 0 Blocks
+19/11/104 14:35:21: TCP DISCONNECT (-1)
+19/11/104 14:35:21: END END END END END 
+19/11/104 14:35:21: bye
+19/11/104 14:35:21: Antes do Fail
+19/11/104 14:38:10:  ****** session             ******
+19/11/104 14:38:10:  ******         starts      ******
+19/11/104 14:38:10:  ******                here ******
+19/11/104 14:38:10: Output File not in command line. OK
+19/11/104 14:38:10: STANDARD Bulk File Transfer SET
+19/11/104 14:38:10: Bulk File is T467
+19/11/104 14:38:10: output file not specified
+19/11/104 14:38:10: output file will be generated
+19/11/104 14:38:10: IpAddress id is "172.20.253.142"
+19/11/104 14:38:10: OUTPUT will be converted to ASCII
+19/11/104 14:38:10: On reception failure "onFailure.sh" will run
+19/11/104 14:38:10: Max LOG file SIZE set to 32000
+19/11/104 14:38:10: MIP Session
+19/11/104 14:38:10: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 14:38:10: Bulk Type is T
+19/11/104 14:38:10: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 14:38:10: Starting File Receive
+19/11/104 14:38:10: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 14:38:10: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 14:38:10: 0 Bytes Received in 0 Blocks
+19/11/104 14:38:10: TCP DISCONNECT (-1)
+19/11/104 14:38:10: END END END END END 
+19/11/104 14:38:10: bye
+19/11/104 14:38:10: Antes do Fail
+19/11/104 14:41:16:  ****** session             ******
+19/11/104 14:41:16:  ******         starts      ******
+19/11/104 14:41:16:  ******                here ******
+19/11/104 14:41:16: Output File not in command line. OK
+19/11/104 14:41:16: STANDARD Bulk File Transfer SET
+19/11/104 14:41:16: Bulk File is T467
+19/11/104 14:41:16: output file not specified
+19/11/104 14:41:16: output file will be generated
+19/11/104 14:41:16: IpAddress id is "172.20.253.142"
+19/11/104 14:41:16: OUTPUT will be converted to ASCII
+19/11/104 14:41:16: On reception failure "onFailure.sh" will run
+19/11/104 14:41:16: Max LOG file SIZE set to 32000
+19/11/104 14:41:16: MIP Session
+19/11/104 14:41:16: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 14:41:16: Bulk Type is T
+19/11/104 14:41:16: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 14:41:16: Starting File Receive
+19/11/104 14:41:16: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 14:41:16: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 14:41:16: 0 Bytes Received in 0 Blocks
+19/11/104 14:41:16: TCP DISCONNECT (-1)
+19/11/104 14:41:16: END END END END END 
+19/11/104 14:41:16: bye
+19/11/104 14:41:16: Antes do Fail
+19/11/104 14:44:38:  ****** session             ******
+19/11/104 14:44:38:  ******         starts      ******
+19/11/104 14:44:38:  ******                here ******
+19/11/104 14:44:38: Output File not in command line. OK
+19/11/104 14:44:38: STANDARD Bulk File Transfer SET
+19/11/104 14:44:38: Bulk File is T467
+19/11/104 14:44:38: output file not specified
+19/11/104 14:44:38: output file will be generated
+19/11/104 14:44:38: IpAddress id is "172.20.253.142"
+19/11/104 14:44:38: OUTPUT will be converted to ASCII
+19/11/104 14:44:38: On reception failure "onFailure.sh" will run
+19/11/104 14:44:38: Max LOG file SIZE set to 32000
+19/11/104 14:44:38: MIP Session
+19/11/104 14:44:38: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 14:44:38: Bulk Type is T
+19/11/104 14:44:38: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 14:44:38: Starting File Receive
+19/11/104 14:44:38: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 14:44:38: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 14:44:38: 0 Bytes Received in 0 Blocks
+19/11/104 14:44:38: TCP DISCONNECT (-1)
+19/11/104 14:44:38: END END END END END 
+19/11/104 14:44:38: bye
+19/11/104 14:44:38: Antes do Fail
+19/11/104 14:47:49:  ****** session             ******
+19/11/104 14:47:49:  ******         starts      ******
+19/11/104 14:47:49:  ******                here ******
+19/11/104 14:47:49: Output File not in command line. OK
+19/11/104 14:47:49: STANDARD Bulk File Transfer SET
+19/11/104 14:47:49: Bulk File is T467
+19/11/104 14:47:49: output file not specified
+19/11/104 14:47:49: output file will be generated
+19/11/104 14:47:49: IpAddress id is "172.20.253.142"
+19/11/104 14:47:49: OUTPUT will be converted to ASCII
+19/11/104 14:47:49: On reception failure "onFailure.sh" will run
+19/11/104 14:47:49: Max LOG file SIZE set to 32000
+19/11/104 14:47:49: MIP Session
+19/11/104 14:47:49: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 14:47:49: Bulk Type is T
+19/11/104 14:47:49: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 14:47:49: Starting File Receive
+19/11/104 14:47:49: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 14:47:49: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 14:47:49: 0 Bytes Received in 0 Blocks
+19/11/104 14:47:49: TCP DISCONNECT (-1)
+19/11/104 14:47:49: END END END END END 
+19/11/104 14:47:49: bye
+19/11/104 14:47:49: Antes do Fail
+19/11/104 14:49:52:  ****** session             ******
+19/11/104 14:49:52:  ******         starts      ******
+19/11/104 14:49:52:  ******                here ******
+19/11/104 14:49:52: Output File not in command line. OK
+19/11/104 14:49:52: STANDARD Bulk File Transfer SET
+19/11/104 14:49:52: Bulk File is T467
+19/11/104 14:49:52: output file not specified
+19/11/104 14:49:52: output file will be generated
+19/11/104 14:49:52: IpAddress id is "172.20.253.142"
+19/11/104 14:49:52: OUTPUT will be converted to ASCII
+19/11/104 14:49:52: On reception failure "onFailure.sh" will run
+19/11/104 14:49:52: Max LOG file SIZE set to 32000
+19/11/104 14:49:52: MIP Session
+19/11/104 14:49:52: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 14:49:52: Bulk Type is T
+19/11/104 14:49:52: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 14:49:52: Starting File Receive
+19/11/104 14:49:52: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 14:49:52: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 14:49:52: 0 Bytes Received in 0 Blocks
+19/11/104 14:49:52: TCP DISCONNECT (-1)
+19/11/104 14:49:52: END END END END END 
+19/11/104 14:49:52: bye
+19/11/104 14:49:52: Antes do Fail
+19/11/104 14:52:28:  ****** session             ******
+19/11/104 14:52:28:  ******         starts      ******
+19/11/104 14:52:28:  ******                here ******
+19/11/104 14:52:28: Output File not in command line. OK
+19/11/104 14:52:28: STANDARD Bulk File Transfer SET
+19/11/104 14:52:28: Bulk File is T467
+19/11/104 14:52:28: output file not specified
+19/11/104 14:52:28: output file will be generated
+19/11/104 14:52:28: IpAddress id is "172.20.253.142"
+19/11/104 14:52:28: OUTPUT will be converted to ASCII
+19/11/104 14:52:28: On reception failure "onFailure.sh" will run
+19/11/104 14:52:28: Max LOG file SIZE set to 32000
+19/11/104 14:52:28: MIP Session
+19/11/104 14:52:28: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 14:52:28: Bulk Type is T
+19/11/104 14:52:28: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 14:52:28: Starting File Receive
+19/11/104 14:52:28: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 14:52:28: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 14:52:28: 0 Bytes Received in 0 Blocks
+19/11/104 14:52:28: TCP DISCONNECT (-1)
+19/11/104 14:52:28: END END END END END 
+19/11/104 14:52:28: bye
+19/11/104 14:52:28: Antes do Fail
+19/11/104 14:53:13:  ****** session             ******
+19/11/104 14:53:13:  ******         starts      ******
+19/11/104 14:53:13:  ******                here ******
+19/11/104 14:53:13: Output File not in command line. OK
+19/11/104 14:53:13: STANDARD Bulk File Transfer SET
+19/11/104 14:53:13: Bulk File is T467
+19/11/104 14:53:13: output file not specified
+19/11/104 14:53:13: output file will be generated
+19/11/104 14:53:13: IpAddress id is "172.20.253.142"
+19/11/104 14:53:13: OUTPUT will be converted to ASCII
+19/11/104 14:53:13: On reception failure "onFailure.sh" will run
+19/11/104 14:53:13: Max LOG file SIZE set to 32000
+19/11/104 14:53:13: MIP Session
+19/11/104 14:53:13: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 14:53:13: Bulk Type is T
+19/11/104 14:53:13: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 14:53:13: Starting File Receive
+19/11/104 14:53:13: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 14:53:13: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 14:53:13: 0 Bytes Received in 0 Blocks
+19/11/104 14:53:13: TCP DISCONNECT (-1)
+19/11/104 14:53:13: END END END END END 
+19/11/104 14:53:13: bye
+19/11/104 14:53:13: Antes do Fail
+19/11/104 14:54:18:  ****** session             ******
+19/11/104 14:54:18:  ******         starts      ******
+19/11/104 14:54:18:  ******                here ******
+19/11/104 14:54:18: Output File not in command line. OK
+19/11/104 14:54:18: STANDARD Bulk File Transfer SET
+19/11/104 14:54:18: Bulk File is T467
+19/11/104 14:54:18: output file not specified
+19/11/104 14:54:18: output file will be generated
+19/11/104 14:54:18: IpAddress id is "172.20.253.142"
+19/11/104 14:54:18: OUTPUT will be converted to ASCII
+19/11/104 14:54:18: On reception failure "onFailure.sh" will run
+19/11/104 14:54:18: Max LOG file SIZE set to 32000
+19/11/104 14:54:18: MIP Session
+19/11/104 14:54:18: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 14:54:18: Bulk Type is T
+19/11/104 14:54:18: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 14:54:18: Starting File Receive
+19/11/104 14:54:18: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 14:54:18: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 14:54:18: 0 Bytes Received in 0 Blocks
+19/11/104 14:54:18: TCP DISCONNECT (-1)
+19/11/104 14:54:18: END END END END END 
+19/11/104 14:54:18: bye
+19/11/104 14:54:18: Antes do Fail
+19/11/104 14:55:05:  ****** session             ******
+19/11/104 14:55:05:  ******         starts      ******
+19/11/104 14:55:05:  ******                here ******
+19/11/104 14:55:05: Output File not in command line. OK
+19/11/104 14:55:05: STANDARD Bulk File Transfer SET
+19/11/104 14:55:05: Bulk File is T467
+19/11/104 14:55:05: output file not specified
+19/11/104 14:55:05: output file will be generated
+19/11/104 14:55:05: IpAddress id is "172.20.253.142"
+19/11/104 14:55:05: OUTPUT will be converted to ASCII
+19/11/104 14:55:05: On reception failure "onFailure.sh" will run
+19/11/104 14:55:05: Max LOG file SIZE set to 32000
+19/11/104 14:55:05: MIP Session
+19/11/104 14:55:05: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 14:55:05: Bulk Type is T
+19/11/104 14:55:05: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 14:55:05: Starting File Receive
+19/11/104 14:55:05: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 14:55:05: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 14:55:05: 0 Bytes Received in 0 Blocks
+19/11/104 14:55:05: TCP DISCONNECT (-1)
+19/11/104 14:55:05: END END END END END 
+19/11/104 14:55:05: bye
+19/11/104 14:55:05: Antes do Fail
+19/11/104 14:55:57:  ****** session             ******
+19/11/104 14:55:57:  ******         starts      ******
+19/11/104 14:55:57:  ******                here ******
+19/11/104 14:55:57: Output File not in command line. OK
+19/11/104 14:55:57: STANDARD Bulk File Transfer SET
+19/11/104 14:55:57: Bulk File is T467
+19/11/104 14:55:57: output file not specified
+19/11/104 14:55:57: output file will be generated
+19/11/104 14:55:57: IpAddress id is "172.20.253.142"
+19/11/104 14:55:57: OUTPUT will be converted to ASCII
+19/11/104 14:55:57: On reception failure "onFailure.sh" will run
+19/11/104 14:55:57: Max LOG file SIZE set to 32000
+19/11/104 14:55:57: MIP Session
+19/11/104 14:55:57: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 14:55:57: Bulk Type is T
+19/11/104 14:55:57: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 14:55:57: Starting File Receive
+19/11/104 14:55:57: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 14:55:57: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 14:55:57: 0 Bytes Received in 0 Blocks
+19/11/104 14:55:57: TCP DISCONNECT (-1)
+19/11/104 14:55:57: END END END END END 
+19/11/104 14:55:57: bye
+19/11/104 14:55:57: Antes do Fail
+19/11/104 14:58:10:  ****** session             ******
+19/11/104 14:58:10:  ******         starts      ******
+19/11/104 14:58:10:  ******                here ******
+19/11/104 14:58:10: Output File not in command line. OK
+19/11/104 14:58:10: STANDARD Bulk File Transfer SET
+19/11/104 14:58:10: Bulk File is T467
+19/11/104 14:58:10: output file not specified
+19/11/104 14:58:10: output file will be generated
+19/11/104 14:58:10: IpAddress id is "172.20.253.142"
+19/11/104 14:58:10: OUTPUT will be converted to ASCII
+19/11/104 14:58:10: On reception failure "onFailure.sh" will run
+19/11/104 14:58:10: Max LOG file SIZE set to 32000
+19/11/104 14:58:10: MIP Session
+19/11/104 14:58:10: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 14:58:10: Bulk Type is T
+19/11/104 14:58:10: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 14:58:10: Starting File Receive
+19/11/104 14:58:10: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 14:58:10: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 14:58:10: 0 Bytes Received in 0 Blocks
+19/11/104 14:58:10: TCP DISCONNECT (-1)
+19/11/104 14:58:10: END END END END END 
+19/11/104 14:58:10: bye
+19/11/104 14:58:10: Antes do Fail
+19/11/104 15:13:55:  ****** session             ******
+19/11/104 15:13:55:  ******         starts      ******
+19/11/104 15:13:55:  ******                here ******
+19/11/104 15:13:55: Output File not in command line. OK
+19/11/104 15:13:55: STANDARD Bulk File Transfer SET
+19/11/104 15:13:55: Bulk File is T467
+19/11/104 15:13:55: output file not specified
+19/11/104 15:13:55: output file will be generated
+19/11/104 15:13:55: IpAddress id is "172.20.253.142"
+19/11/104 15:13:55: OUTPUT will be converted to ASCII
+19/11/104 15:13:55: On reception failure "onFailure.sh" will run
+19/11/104 15:13:55: Max LOG file SIZE set to 100000000
+19/11/104 15:13:55: MIP Session
+19/11/104 15:13:55: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 15:13:55: Bulk Type is T
+19/11/104 15:13:55: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 15:13:55: Starting File Receive
+19/11/104 15:13:55: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 15:13:55: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 15:13:55: 0 Bytes Received in 0 Blocks
+19/11/104 15:13:55: TCP DISCONNECT (-1)
+19/11/104 15:13:55: END END END END END 
+19/11/104 15:13:55: bye
+19/11/104 15:13:55: Antes do Fail
+19/11/104 15:15:40:  ****** session             ******
+19/11/104 15:15:40:  ******         starts      ******
+19/11/104 15:15:40:  ******                here ******
+19/11/104 15:15:40: Output File not in command line. OK
+19/11/104 15:15:40: STANDARD Bulk File Transfer SET
+19/11/104 15:15:40: Bulk File is T467
+19/11/104 15:15:40: output file not specified
+19/11/104 15:15:40: output file will be generated
+19/11/104 15:15:40: IpAddress id is "172.20.253.142"
+19/11/104 15:15:40: OUTPUT will be converted to ASCII
+19/11/104 15:15:40: On reception failure "onFailure.sh" will run
+19/11/104 15:15:40: Max LOG file SIZE set to 100000000
+19/11/104 15:15:40: MIP Session
+19/11/104 15:15:40: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 15:15:40: Bulk Type is T
+19/11/104 15:15:40: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 15:15:40: Starting File Receive
+19/11/104 15:15:40: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 15:15:40: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 15:15:40: 0 Bytes Received in 0 Blocks
+19/11/104 15:15:40: TCP DISCONNECT (-1)
+19/11/104 15:15:40: END END END END END 
+19/11/104 15:15:40: bye
+19/11/104 20:33:40:  ****** session             ******
+19/11/104 20:33:40:  ******         starts      ******
+19/11/104 20:33:40:  ******                here ******
+19/11/104 20:33:40: Output File not in command line. OK
+19/11/104 20:33:40: STANDARD Bulk File Transfer SET
+19/11/104 20:33:40: Bulk File is T467
+19/11/104 20:33:40: output file not specified
+19/11/104 20:33:40: output file will be generated
+19/11/104 20:33:40: IpAddress id is "172.20.253.142"
+19/11/104 20:33:40: OUTPUT will be converted to ASCII
+19/11/104 20:33:40: On reception failure "onFailure.sh" will run
+19/11/104 20:33:40: Max LOG file SIZE set to 100000000
+19/11/104 20:33:40: MIP Session
+19/11/104 20:33:40: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 20:33:40: Bulk Type is T
+19/11/104 20:33:40: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 20:33:40: Starting File Receive
+19/11/104 20:33:40: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 20:33:40: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 20:33:40: 0 Bytes Received in 0 Blocks
+19/11/104 20:33:40: TCP DISCONNECT (-1)
+19/11/104 20:33:40: END END END END END 
+19/11/104 20:33:40: bye
+19/11/104 20:34:40:  ****** session             ******
+19/11/104 20:34:40:  ******         starts      ******
+19/11/104 20:34:40:  ******                here ******
+19/11/104 20:34:40: Output File not in command line. OK
+19/11/104 20:34:40: STANDARD Bulk File Transfer SET
+19/11/104 20:34:40: Bulk File is T467
+19/11/104 20:34:40: output file not specified
+19/11/104 20:34:40: output file will be generated
+19/11/104 20:34:40: IpAddress id is "172.20.253.142"
+19/11/104 20:34:40: OUTPUT will be converted to ASCII
+19/11/104 20:34:40: On reception failure "onFailure.sh" will run
+19/11/104 20:34:40: Max LOG file SIZE set to 100000000
+19/11/104 20:34:40: MIP Session
+19/11/104 20:34:40: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 20:34:40: Bulk Type is T
+19/11/104 20:34:40: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 20:34:40: Starting File Receive
+19/11/104 20:34:40: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 20:34:40: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 20:34:40: 0 Bytes Received in 0 Blocks
+19/11/104 20:34:40: TCP DISCONNECT (-1)
+19/11/104 20:34:40: END END END END END 
+19/11/104 20:34:40: bye
+19/11/104 20:44:09:  ****** session             ******
+19/11/104 20:44:09:  ******         starts      ******
+19/11/104 20:44:09:  ******                here ******
+19/11/104 20:44:09: Output File not in command line. OK
+19/11/104 20:44:09: STANDARD Bulk File Transfer SET
+19/11/104 20:44:09: Bulk File is T467
+19/11/104 20:44:09: output file not specified
+19/11/104 20:44:09: output file will be generated
+19/11/104 20:44:09: IpAddress id is "172.20.253.142"
+19/11/104 20:44:09: OUTPUT will be converted to ASCII
+19/11/104 20:44:09: On reception failure "onFailure.sh" will run
+19/11/104 20:44:09: Max LOG file SIZE set to 100000000
+19/11/104 20:44:09: MIP Session
+19/11/104 20:44:09: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 20:44:09: Bulk Type is T
+19/11/104 20:44:09: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 20:44:09: Starting File Receive
+19/11/104 20:44:09: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 20:44:09: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 20:44:09: 0 Bytes Received in 0 Blocks
+19/11/104 20:44:09: TCP DISCONNECT (-1)
+19/11/104 20:44:09: END END END END END 
+19/11/104 20:44:09: bye
+19/11/104 20:54:09:  ****** session             ******
+19/11/104 20:54:09:  ******         starts      ******
+19/11/104 20:54:09:  ******                here ******
+19/11/104 20:54:09: Output File not in command line. OK
+19/11/104 20:54:09: STANDARD Bulk File Transfer SET
+19/11/104 20:54:09: Bulk File is T467
+19/11/104 20:54:09: output file not specified
+19/11/104 20:54:09: output file will be generated
+19/11/104 20:54:09: IpAddress id is "172.20.253.142"
+19/11/104 20:54:09: OUTPUT will be converted to ASCII
+19/11/104 20:54:09: On reception failure "onFailure.sh" will run
+19/11/104 20:54:09: Max LOG file SIZE set to 100000000
+19/11/104 20:54:09: MIP Session
+19/11/104 20:54:09: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 20:54:09: Bulk Type is T
+19/11/104 20:54:09: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 20:54:09: Starting File Receive
+19/11/104 20:54:09: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 20:54:09: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 20:54:09: 0 Bytes Received in 0 Blocks
+19/11/104 20:54:09: TCP DISCONNECT (-1)
+19/11/104 20:54:09: END END END END END 
+19/11/104 20:54:09: bye
+19/11/104 20:54:58:  ****** session             ******
+19/11/104 20:54:58:  ******         starts      ******
+19/11/104 20:54:58:  ******                here ******
+19/11/104 20:54:58: Output File not in command line. OK
+19/11/104 20:54:58: STANDARD Bulk File Transfer SET
+19/11/104 20:54:58: Bulk File is T467
+19/11/104 20:54:58: output file not specified
+19/11/104 20:54:58: output file will be generated
+19/11/104 20:54:58: IpAddress id is "172.20.253.142"
+19/11/104 20:54:58: OUTPUT will be converted to ASCII
+19/11/104 20:54:58: On reception failure "onFailure.sh" will run
+19/11/104 20:54:58: Max LOG file SIZE set to 100000000
+19/11/104 20:54:58: MIP Session
+19/11/104 20:54:58: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 20:54:58: Bulk Type is T
+19/11/104 20:54:58: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 20:54:58: Starting File Receive
+19/11/104 20:54:58: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 20:54:58: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 20:54:58: 0 Bytes Received in 0 Blocks
+19/11/104 20:54:58: TCP DISCONNECT (-1)
+19/11/104 20:54:58: END END END END END 
+19/11/104 20:54:58: bye
+19/11/104 20:58:13:  ****** session             ******
+19/11/104 20:58:13:  ******         starts      ******
+19/11/104 20:58:13:  ******                here ******
+19/11/104 20:58:13: Output File not in command line. OK
+19/11/104 20:58:13: STANDARD Bulk File Transfer SET
+19/11/104 20:58:13: Bulk File is T467
+19/11/104 20:58:13: output file not specified
+19/11/104 20:58:13: output file will be generated
+19/11/104 20:58:13: IpAddress id is "172.20.253.142"
+19/11/104 20:58:13: OUTPUT will be converted to ASCII
+19/11/104 20:58:13: On reception failure "onFailure.sh" will run
+19/11/104 20:58:13: Max LOG file SIZE set to 100000000
+19/11/104 20:58:13: MIP Session
+19/11/104 20:58:13: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 20:58:13: Bulk Type is T
+19/11/104 20:58:13: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 20:58:13: Starting File Receive
+19/11/104 20:58:13: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 20:58:13: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 20:58:13: 0 Bytes Received in 0 Blocks
+19/11/104 20:58:13: TCP DISCONNECT (-1)
+19/11/104 20:58:13: END END END END END 
+19/11/104 20:58:13: bye
+19/11/104 20:59:09:  ****** session             ******
+19/11/104 20:59:09:  ******         starts      ******
+19/11/104 20:59:09:  ******                here ******
+19/11/104 20:59:09: Output File not in command line. OK
+19/11/104 20:59:09: STANDARD Bulk File Transfer SET
+19/11/104 20:59:09: Bulk File is T467
+19/11/104 20:59:09: output file not specified
+19/11/104 20:59:09: output file will be generated
+19/11/104 20:59:09: IpAddress id is "172.20.253.142"
+19/11/104 20:59:09: OUTPUT will be converted to ASCII
+19/11/104 20:59:09: On reception failure "onFailure.sh" will run
+19/11/104 20:59:09: Max LOG file SIZE set to 100000000
+19/11/104 20:59:09: MIP Session
+19/11/104 20:59:09: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 20:59:09: Bulk Type is T
+19/11/104 20:59:09: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 20:59:09: Starting File Receive
+19/11/104 20:59:09: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 20:59:09: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 20:59:09: 0 Bytes Received in 0 Blocks
+19/11/104 20:59:09: TCP DISCONNECT (-1)
+19/11/104 20:59:09: END END END END END 
+19/11/104 20:59:09: bye
+19/11/104 21:00:59:  ****** session             ******
+19/11/104 21:00:59:  ******         starts      ******
+19/11/104 21:00:59:  ******                here ******
+19/11/104 21:00:59: Output File not in command line. OK
+19/11/104 21:00:59: STANDARD Bulk File Transfer SET
+19/11/104 21:00:59: Bulk File is T467
+19/11/104 21:00:59: output file not specified
+19/11/104 21:00:59: output file will be generated
+19/11/104 21:00:59: IpAddress id is "172.20.253.142"
+19/11/104 21:00:59: OUTPUT will be converted to ASCII
+19/11/104 21:00:59: On reception failure "onFailure.sh" will run
+19/11/104 21:00:59: Max LOG file SIZE set to 100000000
+19/11/104 21:00:59: MIP Session
+19/11/104 21:00:59: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 21:00:59: Bulk Type is T
+19/11/104 21:00:59: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 21:00:59: Starting File Receive
+19/11/104 21:00:59: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 21:00:59: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 21:00:59: 0 Bytes Received in 0 Blocks
+19/11/104 21:00:59: TCP DISCONNECT (-1)
+19/11/104 21:00:59: END END END END END 
+19/11/104 21:00:59: bye
+19/11/104 21:02:51:  ****** session             ******
+19/11/104 21:02:51:  ******         starts      ******
+19/11/104 21:02:51:  ******                here ******
+19/11/104 21:02:51: Output File not in command line. OK
+19/11/104 21:02:51: STANDARD Bulk File Transfer SET
+19/11/104 21:02:51: Bulk File is T467
+19/11/104 21:02:51: output file not specified
+19/11/104 21:02:51: output file will be generated
+19/11/104 21:02:51: IpAddress id is "172.20.253.142"
+19/11/104 21:02:51: OUTPUT will be converted to ASCII
+19/11/104 21:02:51: On reception failure "onFailure.sh" will run
+19/11/104 21:02:51: Max LOG file SIZE set to 100000000
+19/11/104 21:02:51: MIP Session
+19/11/104 21:02:51: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 21:02:51: Bulk Type is T
+19/11/104 21:02:51: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 21:02:51: Starting File Receive
+19/11/104 21:02:51: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 21:02:51: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 21:02:51: 0 Bytes Received in 0 Blocks
+19/11/104 21:02:51: TCP DISCONNECT (-1)
+19/11/104 21:02:51: END END END END END 
+19/11/104 21:02:51: bye
+19/11/104 21:03:55:  ****** session             ******
+19/11/104 21:03:55:  ******         starts      ******
+19/11/104 21:03:55:  ******                here ******
+19/11/104 21:03:55: Output File not in command line. OK
+19/11/104 21:03:55: STANDARD Bulk File Transfer SET
+19/11/104 21:03:55: Bulk File is T467
+19/11/104 21:03:55: output file not specified
+19/11/104 21:03:55: output file will be generated
+19/11/104 21:03:55: IpAddress id is "172.20.253.142"
+19/11/104 21:03:55: OUTPUT will be converted to ASCII
+19/11/104 21:03:55: On reception failure "onFailure.sh" will run
+19/11/104 21:03:55: Max LOG file SIZE set to 100000000
+19/11/104 21:03:55: MIP Session
+19/11/104 21:03:55: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 21:03:55: Bulk Type is T
+19/11/104 21:03:55: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 21:03:55: Starting File Receive
+19/11/104 21:03:55: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 21:03:55: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 21:03:55: 0 Bytes Received in 0 Blocks
+19/11/104 21:03:55: TCP DISCONNECT (-1)
+19/11/104 21:03:55: END END END END END 
+19/11/104 21:03:55: bye
+19/11/104 21:06:06:  ****** session             ******
+19/11/104 21:06:06:  ******         starts      ******
+19/11/104 21:06:06:  ******                here ******
+19/11/104 21:06:06: Output File not in command line. OK
+19/11/104 21:06:06: STANDARD Bulk File Transfer SET
+19/11/104 21:06:06: Bulk File is T467
+19/11/104 21:06:06: output file not specified
+19/11/104 21:06:06: output file will be generated
+19/11/104 21:06:06: IpAddress id is "172.20.253.142"
+19/11/104 21:06:06: OUTPUT will be converted to ASCII
+19/11/104 21:06:06: On reception failure "onFailure.sh" will run
+19/11/104 21:06:06: Max LOG file SIZE set to 100000000
+19/11/104 21:06:06: MIP Session
+19/11/104 21:06:06: Bulk File T467 EndPoint 01420 Julian date is 
+19/11/104 21:06:06: Bulk Type is T
+19/11/104 21:06:06: CONNECT CONNECT CONNECT CONNECT CONNECT
+19/11/104 21:06:06: Starting File Receive
+19/11/104 21:06:06: CONNECT to socket channel "32792" subnet "172.20.253.142" FAILED, code is "3043425"
+19/11/104 21:06:06: DISCONNECT DISCONNECT DISCONNECT DISCONNECT DISCONNECT 
+19/11/104 21:06:06: 0 Bytes Received in 0 Blocks
+19/11/104 21:06:06: TCP DISCONNECT (-1)
+19/11/104 21:06:06: END END END END END 
+19/11/104 21:06:06: bye
